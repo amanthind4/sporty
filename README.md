@@ -36,29 +36,26 @@ This project is built using the **Pytest** framework integrated with **Selenium 
 
 ## Folder Structure
 
-### 1. **config**
+###  **config**
    - Configuration files (`config.ini`) for application settings and browser preferences.
 
 
-### 3. **logs**
+###  **logs**
    - Execution logs for debugging.
 
-### 2. **Pages**
+###  **Pages**
    - **pages**: Reusable Page Object Model (POM) implementations.
 
 
 
-### 4. **test_data**
-   - Input (`car_input.csv`) and output (`car_output.csv`) data for tests.
-
-### 5. **testcases**
+###  **testcases**
    - Pytest test cases for functional testing.
 
-### 6. **utilities**
+###  **utilities**
    - Helper modules for logging, configuration, and CSV handling.
 
 
-### 5. **reports**
+###  **reports**
    - Stores test execution reports, using html reports.
    - To see the latest report go to the folder , go to file , right click and choose the browser of your choice to view.
 
