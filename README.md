@@ -3,6 +3,10 @@
 
 
 
+
+
+![test-sporty](https://github.com/user-attachments/assets/2af1f7ba-4cc0-423f-8779-6fa43013a484)
+
 This project is built using the **Pytest** framework integrated with **Selenium WebDriver** for browser-based test automation. 
 
 
