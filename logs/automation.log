@@ -1,14 +1,14 @@
-February 19, 2025 09:26:01 PM.722 INFO     [utilities.logger]: Starting Twitch workflow test
-February 19, 2025 09:26:01 PM.723 INFO     [utilities.logger]: Attempting to accept cookies
-February 19, 2025 09:26:03 PM.974 INFO     [utilities.logger]: Cookies accepted successfully
-February 19, 2025 09:26:03 PM.975 INFO     [utilities.logger]: Executing search operation
-February 19, 2025 09:26:04 PM.932 INFO     [utilities.logger]: Search operation completed successfully
-February 19, 2025 09:26:04 PM.932 INFO     [utilities.logger]: Scrolling through results twice
-February 19, 2025 09:26:10 PM.008 INFO     [utilities.logger]: Scrolling completed successfully
-February 19, 2025 09:26:10 PM.008 INFO     [utilities.logger]: Processing live streamers
-February 19, 2025 09:26:11 PM.058 INFO     [utilities.logger]: Clicked on the first live streamer
-February 19, 2025 09:26:11 PM.064 INFO     [utilities.logger]: Capturing final screenshot
-February 19, 2025 09:26:11 PM.064 INFO     [utilities.logger]: Attempting to locate video player
-February 19, 2025 09:26:13 PM.151 INFO     [utilities.logger]: Video element located and ready
-February 19, 2025 09:26:13 PM.543 INFO     [utilities.logger]: Screenshot saved to: C:\Users\amant\PycharmProjects\sporty\screenshots\test_twitch_workflow_19-feb-25_09.26.13pm.png
-February 19, 2025 09:26:13 PM.543 INFO     [utilities.logger]: Test completed successfully
+February 20, 2025 11:03:15 AM.465 INFO     [utilities.logger]: Starting Twitch workflow test
+February 20, 2025 11:03:15 AM.465 INFO     [utilities.logger]: Attempting to accept cookies
+February 20, 2025 11:03:15 AM.772 INFO     [utilities.logger]: Cookies accepted successfully
+February 20, 2025 11:03:15 AM.772 INFO     [utilities.logger]: Executing search operation
+February 20, 2025 11:03:16 AM.786 INFO     [utilities.logger]: Search operation completed successfully
+February 20, 2025 11:03:16 AM.786 INFO     [utilities.logger]: Scrolling through results twice
+February 20, 2025 11:03:21 AM.849 INFO     [utilities.logger]: Scrolling completed successfully
+February 20, 2025 11:03:21 AM.849 INFO     [utilities.logger]: Processing live streamers
+February 20, 2025 11:03:22 AM.880 INFO     [utilities.logger]: Clicked on the first live streamer
+February 20, 2025 11:03:22 AM.889 INFO     [utilities.logger]: Capturing final screenshot
+February 20, 2025 11:03:22 AM.890 INFO     [utilities.logger]: Attempting to locate video player
+February 20, 2025 11:03:25 AM.207 INFO     [utilities.logger]: Video element located and ready
+February 20, 2025 11:03:25 AM.680 INFO     [utilities.logger]: Screenshot saved to: C:\Users\amant\PycharmProjects\sporty\screenshots\test_twitch_workflow_20-feb-25_11.03.25am.png
+February 20, 2025 11:03:25 AM.680 INFO     [utilities.logger]: Test completed successfully
