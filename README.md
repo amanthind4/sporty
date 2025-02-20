@@ -52,7 +52,7 @@ This project is built using the **Pytest** framework integrated with **Selenium 
    - Pytest test cases for functional testing.
 
 ###  **utilities**
-   - Helper modules for logging, configuration, and CSV handling.
+   - Helper modules for logging, configuration
 
 
 ###  **reports**
